@@ -1,6 +1,6 @@
-<h1>Hi, I'm Aldrich! <br/> <a href="https://www.linkedin.com/in/aldrich-macadangdang-549473257/">Aspiring Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/aldrich-macadangdang-549473257/">Programmer</a>, <a href="https://www.linkedin.com/in/aldrich-macadangdang-549473257/">Software Developer</a> </h1>
+<h1>Hi, I'm Aldrich! A Computer Engineer <br/> <a href="https://www.linkedin.com/in/aldrich-macadangdang-549473257/">Aspiring Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/aldrich-macadangdang-549473257/">Programmer</a>, <a href="https://www.linkedin.com/in/aldrich-macadangdang-549473257/">Software Developer</a> </h1>
 
-<h2>👨‍💻 Software Development Project:</h2>
+<h2>📱 Software Development Project:</h2>
 
 - <b>Mobile Braille (A mobile application that transcribe different inputs into braille)</b>
   - [Capstone Project 2024](https://github.com/Arudrich/MobileBraille)
@@ -13,9 +13,15 @@
 - <b>Simple Face Detection (A python programmign that detect human face)</b>
   - [Simple Face Detection](https://github.com/Arudrich/Simple-Face-Detection)
  
-<h2>👨‍💻 Cybersecurity Project:</h2>
+<h2>👮 Cybersecurity Project:</h2>
 
 - <b>Developing...</b>
+
+<h2>📋 Certifications:</h2>
+
+- <b>[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/LYI000OW76NK)</b>
+
+- <b>[Qualys: Vulnerability Detection and Response Certification](https://qualys.sumtotal.host/rcore/c/pillarRedirect?relyingParty=LM&url=https%3A%2F%2Fqualys.sumtotal.host%2Flearning%2Fapp%2Fmanagement%2FLMS_LearnerReports.aspx%3FUserMode%3D0%26Mode%3D1&nodeKey=Learner_MenuTrainingTranscript&nodeUrl=app%2Fmanagement%2FLMS_LearnerReports.aspx%3FUserMode%3D0%26Mode%3D1)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
